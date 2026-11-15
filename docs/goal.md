@@ -39,7 +39,8 @@
 
 ## This week's tasks
 
-- [ ] 1. Publish the remaining Gumroad products and add a "Digital Downloads" collection to Shopify.
+- [x] 1. Publish the remaining Gumroad products. Done 2026-11-15: all 3 Gumroad products are live.
+  - The Shopify "Digital Downloads" collection is on hold until the Anchored Faith planner and the other digital downloads that go with the 4-Week Reset are ready.
 - [ ] 2. `/contentmonetize Pinterest`: point the pins at digital products, and build a 14-day calendar.
 - [ ] 3. `/digitalproduct 30 affirmation phone wallpapers`: Floyd Essentials' first product, $7.
 - [ ] 4. `/productbundle New Year reset`: about $29.
@@ -47,3 +48,4 @@
 ## Progress log
 
 - **2026-11-15:** Goal set and baseline taken. Gumroad check: the Monthly Reset Club ($4.99/mo) and the FREE 4-Week Reset Planner are now published; the December planner ($7.99) is still unpublished; the old "4 Week Fitness & Wellness Planner" no longer exists.
+- **2026-11-15:** Published "December: Steady Through the Season" on Gumroad at $7.99. Gumroad now has 3 live products. Shopify digital collection on hold by the owner's choice, while the downloads that go with the 4-Week Reset are built.
