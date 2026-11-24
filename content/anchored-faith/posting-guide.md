@@ -1,7 +1,7 @@
 # Anchored Faith: Posting Guide
 
 **Accounts:** the Anchored Faith Facebook page and Instagram @anchoredfaith11
-**Content calendar:** `december-2026-affirmations.md` (to read) and `december-2026-posts.csv` (to schedule, with ready-to-paste captions for each platform)
+**Content calendars:** `december-2026-affirmations.md` and `january-2027-affirmations.md` (to read), plus matching `-posts.csv` files (to schedule, with ready-to-paste captions for each platform)
 
 ## Weekly rhythm
 
@@ -32,7 +32,7 @@
 1. **Instagram:** Ask people to *save* and *share*. The algorithm weights those most. The CSV captions already include this.
 2. **Facebook:** End each post with the question to get comments. Reply to every comment in the first hour.
 3. Turn 2 affirmations a week into 7-second Reels: the graphic plus soft music plus a slow zoom.
-4. Use 1–2 hashtags on Facebook and about 10 on Instagram. The Instagram sets rotate A/B/C, and set C is the Advent and Christmas set.
+4. Use 1–2 hashtags on Facebook and about 10 on Instagram. The Instagram sets rotate A/B/C, and set C is seasonal (Advent and Christmas in December, new-year themes in January).
 5. Share each post to your personal Facebook profile and 1–2 faith groups where self-promotion is allowed.
 
 ## Scheduling
