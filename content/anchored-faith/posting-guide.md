@@ -15,6 +15,8 @@
 
 ## Graphic design (free in Canva)
 
+**December graphics are done:** all 31, in Day 1–31 order, in Canva → [December 2026 Anchored Faith affirmations](https://www.canva.com/d/tqvsW5gqeUE18Nt). They're 1080×1440 (3:4), which works on both the Instagram feed and Facebook. To get the files, open the design, then Share → Download → PNG → All pages.
+
 - **Sizes:** 1080×1350 (4:5) for the Instagram feed and Facebook. 1080×1920 for Stories and Reels covers.
 - **Palette:** deep navy `#1F2A44`, sea-glass `#A8C3BC`, warm sand `#E9DCC6`, soft gold `#C9A45C`
 - **Fonts:** a serif such as Playfair Display for the affirmation, a clean sans-serif such as Montserrat for the verse reference
